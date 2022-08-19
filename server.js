@@ -5,6 +5,8 @@
 // 1. Show products from /products
 // 2. Show fruits from /products/fruits
 // 3. Show vegetables from /products/vegetable
+// module.imports = GreensKiosk;   
+
 var http = require('http'); // Import Node.js core module
 var GreensKiosk = require('./GreensKiosk');
 

@@ -56,4 +56,4 @@ let products = [
     getItems: getItems
     };
     
-    module.exports = GreensKiosk;
+    module.exports = GreensKiosk;   
